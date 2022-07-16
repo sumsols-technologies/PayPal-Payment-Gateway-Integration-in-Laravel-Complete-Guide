@@ -1,6 +1,8 @@
 # PayPal Payment Gateway Integration in Laravel Complete Guide
-This about how to integrate PayPal Payment Gateway using Laravel in Urdu/Hindi
+This about how to integrate PayPal Payment Gateway using Laravel
 
+## Demo Video Guide can be seen by the link below in Urdu/Hindi.
+https://youtu.be/yKLBD5NL_Xc
 
 ## PayPal Website
 
@@ -14,6 +16,13 @@ Make a laravel project
 ```bash
   composer create-project --prefer-dist laravel/laravel projectName
 ```
+
+Next, Install all the dependencies
+
+```bash
+  composer install
+```
+
 
 ## Installation PayPal Omnipay
 
